@@ -271,8 +271,8 @@
       "quantity": 2,
       "date": "24/4/2024",
       "user": {
-        "name": "makanan",
-        "email": "dijitalkun@gmail.com",
+        "name": "arif rama",
+        "email": "arif@mail.com",
         "id": 4
       },
       "id": 2
@@ -297,8 +297,8 @@
       "quantity": 1,
       "date": "24/4/2024",
       "user": {
-        "name": "makanan",
-        "email": "dijitalkun@gmail.com",
+        "name": "arif rama",
+        "email": "arif@mail.com",
         "id": 4
       },
       "id": 3
@@ -306,9 +306,9 @@
   ],
   "users": [
     {
-      "email": "dijitalkun@gmail.com",
+      "email": "arif@mail.com",
       "password": "$2a$10$BvWax50VfqwNHRvbhS2H1uF0zdFIJhRZNT1XhjEFWE.z.Asvr9s7u",
-      "name": "makanan",
+      "name": "arif rama",
       "id": 4
     }
   ]
