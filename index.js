@@ -1,7 +1,7 @@
 import express from "express";
 import jsonServer from "json-server";
 import auth from "json-server-auth";
-const cors = require("cors");
+import cors from "cors";
 
 const server = express();
 
@@ -39,4 +39,6 @@ server.use(auth);
 server.use(middlewares);
 server.use(router);
 
-server.listen(8000);
+server.listen(8000, () => {
+  console.log("Server is running on port 8000");
+});
